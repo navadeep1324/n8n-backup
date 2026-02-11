@@ -1,0 +1,105 @@
+{
+  "_links": {
+    "self": [
+      {
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/pages/207641",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/comments?post=207641"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/pages/207641/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 207661,
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/pages/207641/revisions/207661"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://ads.interimhc.com/wp-json/wp/v2/media?parent=207641"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "author": 1,
+  "class_list": [
+    "post-207641",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "comment_status": "closed",
+  "content": {
+    "rendered": "<p>[et_pb_section fb_built=&#8221;1&#8243; custom_padding_last_edited=&#8221;on|desktop&#8221; disabled_on=&#8221;off|off|off&#8221; admin_label=&#8221;section&#8221; _builder_version=&#8221;4.24.3&#8243; _module_preset=&#8221;default&#8221; background_color=&#8221;gcid-eb662bb6-2052-46b8-8ece-244c90f0a02b&#8221; background_enable_image=&#8221;off&#8221; background_position=&#8221;top_center&#8221; custom_padding=&#8221;26px|||||&#8221; custom_padding_tablet=&#8221;50px|0|50px|0&#8243; custom_padding_phone=&#8221;&#8221; transparent_background=&#8221;off&#8221; padding_mobile=&#8221;off&#8221; make_fullwidth=&#8221;off&#8221; use_custom_width=&#8221;off&#8221; width_unit=&#8221;on&#8221; global_colors_info=&#8221;{%22gcid-eb662bb6-2052-46b8-8ece-244c90f0a02b%22:%91%22background_color%22%93}&#8221;][et_pb_row column_padding_mobile=&#8221;on&#8221; custom_padding_last_edited=&#8221;on|phone&#8221; admin_label=&#8221;row&#8221; _builder_version=&#8221;4.16&#8243; _module_preset=&#8221;default&#8221; background_size=&#8221;initial&#8221; background_position=&#8221;top_left&#8221; background_repeat=&#8221;repeat&#8221; custom_padding=&#8221;40px||40px||true|false&#8221; custom_padding_tablet=&#8221;&#8221; custom_padding_phone=&#8221;&#8221; make_fullwidth=&#8221;off&#8221; use_custom_width=&#8221;off&#8221; width_unit=&#8221;on&#8221; custom_width_px=&#8221;500px&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_column type=&#8221;4_4&#8243; _builder_version=&#8221;4.16&#8243; _module_preset=&#8221;default&#8221; custom_padding=&#8221;|||&#8221; global_colors_info=&#8221;{}&#8221; custom_padding__hover=&#8221;|||&#8221;][et_pb_text _builder_version=&#8221;4.24.3&#8243; _module_preset=&#8221;default&#8221; header_font=&#8221;Merriweather|||on|||||&#8221; header_text_align=&#8221;center&#8221; header_text_color=&#8221;#FFFFFF&#8221; global_colors_info=&#8221;{}&#8221;]</p>\n<h1>Thank you for Completing our client form</h1>\n<p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=&#8221;1&#8243; _builder_version=&#8221;4.16&#8243; _module_preset=&#8221;default&#8221; custom_padding=&#8221;1px|||||&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_row make_equal=&#8221;on&#8221; _builder_version=&#8221;4.27.4&#8243; _module_preset=&#8221;default&#8221; background_enable_color=&#8221;off&#8221; width=&#8221;100%&#8221; module_alignment=&#8221;center&#8221; custom_margin=&#8221;||||false|false&#8221; custom_padding=&#8221;5%||||false|false&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_column type=&#8221;4_4&#8243; _builder_version=&#8221;4.16&#8243; _module_preset=&#8221;default&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_blurb icon_placement=&#8221;left&#8221; content_max_width=&#8221;100%&#8221; _builder_version=&#8221;4.27.4&#8243; _module_preset=&#8221;fa5324ba-2cfa-4867-a2b2-ae392cd2a2a7&#8243; header_level=&#8221;h2&#8243; body_font=&#8221;Rubik||||||||&#8221; body_text_align=&#8221;center&#8221; body_text_color=&#8221;#000000&#8243; body_font_size=&#8221;18px&#8221; body_link_text_color=&#8221;gcid-baa42acc-fc86-4c54-b00a-c82323cb083c&#8221; custom_margin=&#8221;||0px||false|false&#8221; custom_padding=&#8221;||0px||false|false&#8221; hover_enabled=&#8221;0&#8243; locked=&#8221;off&#8221; global_colors_info=&#8221;{%22gcid-baa42acc-fc86-4c54-b00a-c82323cb083c%22:%91%22body_link_text_color%22%93}&#8221; sticky_enabled=&#8221;0&#8243;]We’ll get back to you shortly.</p>\n<p>To know more about our caregiving career, please visit <a href=\"/\">here.</a>[/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row _builder_version=&#8221;4.27.4&#8243; _module_preset=&#8221;default&#8221; custom_padding=&#8221;0px||0px||false|false&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_column type=&#8221;4_4&#8243; _builder_version=&#8221;4.16&#8243; _module_preset=&#8221;default&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_code _builder_version=&#8221;4.27.4&#8243; _module_preset=&#8221;default&#8221; global_colors_info=&#8221;{}&#8221;]<script><!-- [et_pb_line_break_holder] -->         setTimeout(function(){<!-- [et_pb_line_break_holder] -->            window.location.href = 'https://ads.interimhc.com/redding';<!-- [et_pb_line_break_holder] -->         }, 6000);<!-- [et_pb_line_break_holder] -->      </script>[/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section]</p>\n",
+    "protected": false
+  },
+  "date": "2025-07-16T08:34:34",
+  "date_gmt": "2025-07-16T07:34:34",
+  "excerpt": {
+    "rendered": "<p>Thank you for Completing our client form We’ll get back to you shortly. To know more about our caregiving career, please visit here.</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "guid": {
+    "rendered": "https://ads.interimhc.com/?page_id=207641"
+  },
+  "id": 207641,
+  "link": "https://ads.interimhc.com/thank-you-redding/",
+  "menu_order": 0,
+  "meta": {
+    "_et_pb_use_builder": "on",
+    "_et_pb_old_content": "<p>[et_pb_section fb_built=\"1\" custom_padding_last_edited=\"on|desktop\" disabled_on=\"off|off|off\" admin_label=\"section\" _builder_version=\"4.24.3\" _module_preset=\"default\" background_color=\"gcid-eb662bb6-2052-46b8-8ece-244c90f0a02b\" background_enable_image=\"off\" background_position=\"top_center\" custom_padding=\"26px|||||\" custom_padding_tablet=\"50px|0|50px|0\" custom_padding_phone=\"\" transparent_background=\"off\" padding_mobile=\"off\" make_fullwidth=\"off\" use_custom_width=\"off\" width_unit=\"on\" global_colors_info=\"{%22gcid-eb662bb6-2052-46b8-8ece-244c90f0a02b%22:%91%22background_color%22%93}\"][et_pb_row column_padding_mobile=\"on\" custom_padding_last_edited=\"on|phone\" admin_label=\"row\" _builder_version=\"4.16\" _module_preset=\"default\" background_size=\"initial\" background_position=\"top_left\" background_repeat=\"repeat\" custom_padding=\"40px||40px||true|false\" custom_padding_tablet=\"\" custom_padding_phone=\"\" make_fullwidth=\"off\" use_custom_width=\"off\" width_unit=\"on\" custom_width_px=\"500px\" global_colors_info=\"{}\"][et_pb_column type=\"4_4\" _builder_version=\"4.16\" _module_preset=\"default\" custom_padding=\"|||\" global_colors_info=\"{}\" custom_padding__hover=\"|||\"][et_pb_text _builder_version=\"4.24.3\" _module_preset=\"default\" header_font=\"Merriweather|||on|||||\" header_text_align=\"center\" header_text_color=\"#FFFFFF\" global_colors_info=\"{}\"]</p><h1>Thank you for Completing our client form</h1><p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built=\"1\" _builder_version=\"4.16\" _module_preset=\"default\" custom_padding=\"1px|||||\" global_colors_info=\"{}\"][et_pb_row make_equal=\"on\" _builder_version=\"4.27.4\" _module_preset=\"default\" background_enable_color=\"off\" width=\"100%\" module_alignment=\"center\" custom_margin=\"||||false|false\" custom_padding=\"5%||||false|false\" hover_enabled=\"0\" global_colors_info=\"{}\" sticky_enabled=\"0\"][et_pb_column type=\"4_4\" _builder_version=\"4.16\" _module_preset=\"default\" global_colors_info=\"{}\"][et_pb_blurb icon_placement=\"left\" content_max_width=\"100%\" _builder_version=\"4.24.3\" _module_preset=\"fa5324ba-2cfa-4867-a2b2-ae392cd2a2a7\" header_level=\"h2\" body_font=\"Rubik||||||||\" body_text_align=\"center\" body_text_color=\"#000000\" body_font_size=\"18px\" body_link_text_color=\"gcid-baa42acc-fc86-4c54-b00a-c82323cb083c\" custom_margin=\"||0px||false|false\" custom_padding=\"||0px||false|false\" locked=\"off\" global_colors_info=\"{%22gcid-baa42acc-fc86-4c54-b00a-c82323cb083c%22:%91%22body_link_text_color%22%93}\"]</p><p>We’ll get back to you shortly.</p><p>To know more about our caregiving career, please visit <a href=\"https://senior-in-home-care.com/\">here.</a></p><p>[/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row _builder_version=\"4.27.4\" _module_preset=\"default\" hover_enabled=\"0\" global_colors_info=\"{}\" custom_padding=\"0px||0px||false|false\" sticky_enabled=\"0\"][et_pb_column type=\"4_4\" _builder_version=\"4.16\" _module_preset=\"default\" global_colors_info=\"{}\"][et_pb_code _builder_version=\"4.24.3\" _module_preset=\"default\" global_colors_info=\"{}\"]<script><!-- [et_pb_line_break_holder] -->         setTimeout(function(){<!-- [et_pb_line_break_holder] -->            window.location.href = 'https://ads.interimhc.com/';<!-- [et_pb_line_break_holder] -->         }, 6000);<!-- [et_pb_line_break_holder] -->      </script>[/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section]</p>",
+    "_et_gb_content_width": "",
+    "content-type": "",
+    "footnotes": ""
+  },
+  "modified": "2025-07-25T07:18:59",
+  "modified_gmt": "2025-07-25T06:18:59",
+  "myNewField": 1,
+  "parent": 0,
+  "ping_status": "closed",
+  "slug": "thank-you-redding",
+  "status": "publish",
+  "template": "",
+  "title": {
+    "rendered": "Thank you Redding"
+  },
+  "type": "page"
+}
